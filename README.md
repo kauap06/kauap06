@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">Meu nome é Kauã, sou estudante de programação e atualmente cursando Técnico em Desenvolvimento de Sistemas. Adorador desta área de TI e procurando cada vez mais conhecimento e buscando mais experiências.</p>
+<p align="center">Meu nome é Kauã, sou estudante de programação e atualmente cursando Técnico em Desenvolvimento de Sistemas. Admirador desta área de TI e procurando cada vez mais conhecimento e buscando mais experiências.</p>
 
 <div style="display: flex; justify-content: center;" width="100%">
 </div>
