@@ -8,6 +8,7 @@
 
 <div>
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=keka06&show_icons=true&theme=radical&title_color=0&icon_color=0&bg_color=0c131c"/>
+  <br>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keka06&layout=compact&bg_color=0c131c"/>
 </div>
 
