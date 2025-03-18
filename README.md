@@ -1,7 +1,7 @@
 <h1 align="center">✨ Bem-vindo ao meu GitHub! ✨</h1>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/267739bf-d1cd-4aeb-8a34-11c6ca9f92d8" height="280em"/>
+  <img src="https://github.com/user-attachments/assets/632cc841-9b8d-4c8b-a5b8-5a60cd905e08" height="320em"/>
 </div>
 
 ###
