@@ -26,14 +26,16 @@
 </div>
 </div>
 
-#
+<br>
+<br>
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=keka06&show_icons=true&theme=midnight-purple&title_color=0&icon_color=0&bg_color=0c131c"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keka06&theme=midnight-purple&layout=compact&bg_color=0c131c&hide=powershell"/>
 </div>
 
-###
+<br>
+<br>
 
 <p align="center">
   <a href="https://www.instagram.com/yzkaua__/">
@@ -41,8 +43,11 @@
   </a>
 </p>
 
+<br>
+<br>
+
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4a75c6e9-f3a0-44ba-94a7-10dbdfaa4845" style="width: 650px; height: auto;"/>
+  <img src="https://github.com/user-attachments/assets/fb7faddc-3d1e-4f2b-942d-2541413d4837" style="width: 960px; height: auto;"/>
 </div>
 
 
