@@ -1,8 +1,9 @@
 <h1 align="center">✨ Bem-vindo ao meu GitHub! ✨</h1>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/632cc841-9b8d-4c8b-a5b8-5a60cd905e08" height="280em"/>
+  <img src="https://github.com/user-attachments/assets/632cc841-9b8d-4c8b-a5b8-5a60cd905e08" style="width: 650px; height: auto;"/>
 </div>
+
 
 ###
 
@@ -16,10 +17,10 @@
 <div align="center">
 <h3>Linguagens nas quais tenho conhecimentos básicos:</h3>
 <div style="display: inline_block"><br>
-  <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="30"/></a>    
-   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="30"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="30"/></a>    
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="30"/></a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="30"/></a>
 </div>
