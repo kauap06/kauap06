@@ -1,7 +1,7 @@
 <h1 align="center">✨ Bem-vindo ao meu GitHub! ✨</h1>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/632cc841-9b8d-4c8b-a5b8-5a60cd905e08" width="600"/>
+  <img src="https://github.com/user-attachments/assets/4cc7ced0-5751-4316-a0c9-0d81851e5c17" width="960"/>
 </div>
 
 
@@ -36,8 +36,8 @@
 <br>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=keka06&show_icons=true&theme=midnight-purple&title_color=0&icon_color=0&bg_color=0c131c"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keka06&theme=midnight-purple&layout=compact&bg_color=0c131c&hide=powershell"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=keka06&show_icons=true&theme=cobalt&title_color=0&icon_color=0&bg_color=0c131c"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keka06&theme=cobalt&layout=compact&bg_color=0c131c&hide=powershell"/>
 </div>
 
 #
