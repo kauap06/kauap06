@@ -1,13 +1,19 @@
 <h1 align="center">✨ Bem-vindo ao meu GitHub! ✨</h1>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/632cc841-9b8d-4c8b-a5b8-5a60cd905e08" style="width: 500px; height: auto;"/>
+  <img src="https://github.com/user-attachments/assets/632cc841-9b8d-4c8b-a5b8-5a60cd905e08" style="width: 350px; height: auto;"/>
 </div>
 
 
 ###
 
 <p align="center">Meu nome é Kauã, sou estudante de programação e atualmente cursando Técnico em Desenvolvimento de Sistemas. Admirador desta área de TI e procurando cada vez mais conhecimento e buscando mais experiências.</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/yzkaua__/">
+    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF" alt="Instagram" />
+  </a>
+</p>
 
 <div style="display: flex; justify-content: center;" width="100%">
 </div>
@@ -34,16 +40,9 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keka06&theme=midnight-purple&layout=compact&bg_color=0c131c&hide=powershell"/>
 </div>
 
-<br>
-<br>
+#
 
-<p align="center">
-  <a href="https://www.instagram.com/yzkaua__/">
-    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF" alt="Instagram" />
-  </a>
-</p>
-
-###
+<br>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/fb7faddc-3d1e-4f2b-942d-2541413d4837" style="width: 960px; height: auto;"/>
