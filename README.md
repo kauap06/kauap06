@@ -40,8 +40,6 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keka06&theme=cobalt&layout=compact&bg_color=0c131c&hide=powershell"/>
 </div>
 
-#
-
 <br>
 
 <div align="center">
