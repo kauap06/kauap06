@@ -1,10 +1,5 @@
 <h1 align="center">✨ Bem-vindo ao meu GitHub! ✨</h1>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/4cc7ced0-5751-4316-a0c9-0d81851e5c17" width="960"/>
-</div>
-
-
 ###
 
 <p align="center">Meu nome é Kauã, sou estudante de programação e atualmente cursando Técnico em Desenvolvimento de Sistemas. Admirador desta área de TI e procurando cada vez mais conhecimento e buscando mais experiências.</p>
@@ -36,8 +31,8 @@
 <br>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=keka06&show_icons=true&theme=cobalt&title_color=0&icon_color=0&bg_color=0c131c"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keka06&theme=cobalt&layout=compact&bg_color=0c131c&hide=powershell"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kauap06&show_icons=true&theme=cobalt&title_color=0&icon_color=0&bg_color=0c131c"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauap06&theme=cobalt&layout=compact&bg_color=0c131c&hide=powershell"/>
 </div>
 
 <br>
