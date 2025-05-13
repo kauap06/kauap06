@@ -16,7 +16,7 @@
 ----
 
 <div align="center">
-<h3>Linguagens nas quais tenho conhecimentos básicos:</h3>
+<h3>Linguagens nas quais tenho conhecimentos:</h3>
 <div style="display: inline_block"><br>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
@@ -32,7 +32,7 @@
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kauap06&show_icons=true&theme=cobalt&title_color=0&icon_color=0&bg_color=0c131c"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauap06&theme=cobalt&layout=compact&bg_color=0c131c&hide=powershell"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauap06&theme=cobalt&layout=compact&bg_color=0c131c&hide=batchfile,powershell"/>
 </div>
 
 <br>
