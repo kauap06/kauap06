@@ -16,7 +16,7 @@
 ----
 
 <div align="center">
-<h3>Linguagens nas quais tenho conhecimentos:</h3>
+<h3>Linguagens com quais eu ja desenvolvi:</h3>
 <div style="display: inline_block"><br>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
