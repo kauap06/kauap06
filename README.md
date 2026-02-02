@@ -7,7 +7,12 @@
 
 <p align="center">
   <a href="https://www.instagram.com/_zkauakeka/">
-    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF" alt="Instagram" />
+    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF" width= "140" alt="Instagram" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kauap06/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width= "120" alt="Linkedin" />
   </a>
 </p>
 
