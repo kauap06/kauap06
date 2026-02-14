@@ -31,6 +31,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="50" height="50"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/></a>
   <a href="https://microsoft.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" alt="windows" width="50" height="50"/></a>
+  <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" alt="powerbi" width="55" height="55"/></a>
   <a href="https://app.powerbi.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="powerbi" width="38" height="50"/></a>
   
   
