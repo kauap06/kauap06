@@ -28,6 +28,8 @@
 <div align="left">
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="45" style="margin:0 8px;"></a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="45" style="margin:0 8px;"></a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" width="45" style="margin:0 8px;"></a>
 <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="45" style="margin:0 8px;"></a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" width="45" style="margin:0 8px;"></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=QeIg9siFKGgp&format=png&color=000000" width="45" style="margin:0 8px;"></a>
