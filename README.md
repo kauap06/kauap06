@@ -11,13 +11,12 @@
 
 <p align="left">Meu nome é Kauã. Estou cursando Análise e Desenvolvimento de Sistemas, com foco em análise e tratamento de dados e no desenvolvimento de tecnologias backend. Busco aprimorar conhecimentos em manipulação, organização e processamento de dados.</p>
 
-<h2>Github Stats</h2>
+<h2>Stats</h2>
 
-<div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kauap06&show_icons=true&theme=transparent"/>
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauap06&theme=tokyonight"/>
+</div>
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauap06&layout=compact&theme=transparent&hide=batchfile,powershell,kotlin"/>
-</div
+<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kauap06&theme=tokyonight&exclude=powershell,batchfile"/>
 
 ###
 
