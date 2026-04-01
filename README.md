@@ -13,10 +13,10 @@
 
 <h2>Stats</h2>
 
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauap06&theme=tokyonight"/>
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauap06&theme=transparent"/>
 </div>
 
-<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kauap06&theme=tokyonight&exclude=powershell,batchfile"/>
+<img height="170em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kauap06&theme=transparent&exclude=powershell,batchfile"/>
 
 ###
 
